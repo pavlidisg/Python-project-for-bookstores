@@ -63,5 +63,6 @@ Notes:
 Input validation is only implemented for the password during registration.
 Admins can’t add books to a bookstore unless it’s a new book.
 If an admin sets copies to 0, the book is not removed from the bookstore.
+comments on code are in greek.
 
 *This project was developed as part of a course at the university
