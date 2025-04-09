@@ -1,0 +1,53 @@
+id,title,author,publisher,cost,shipping_cost,availability,copies
+1,Data Mining Handbook,Nisbet Robert,Apress,66.75,5.49,True,59
+2,Data Scientists at Work,Sebastian Gutierrez,Apress,36.4,2.69,True,13
+3,The Complete Mastermind,BBC,BBC,79.47,1.35,True,39
+4,Birth of a Theorem,Villani Cedric,Bodley Head,51.46,1.04,True,60
+5,Image Processing & Mathematical Morphology,Shih Frank,CRC,48.3,1.48,True,17
+6,One,Bach Richard,Dell,78.26,5.72,True,29
+7,Soft Computing & Intelligent Systems,Gupta Madan,Elsevier,63.77,1.75,True,32
+8,Uncommon Wisdom,Capra Fritjof,Fontana,18.53,5.84,True,67
+9,Free Will,Harris Sam,FreePress,64.52,3.87,True,55
+10,Analysis Vol I,Tao Terence,HBA,19.06,5.5,True,21
+11,Tales of Mystery and Imagination,Poe Edgar Allen,HarperCollins,78.84,4.89,True,63
+12,The Great War for Civilization,Fisk Robert,HarperCollins,10.82,2.02,True,35
+13,Superfreakonomics,Dubner Stephen,HarperCollins,50.15,5.88,True,60
+14,Scoop!,Nayar Kuldip,HarperCollins,27.33,4.87,True,28
+15,The Hidden Connections,Capra Fritjof,HarperCollins,63.44,5.86,True,62
+16,The Artist and the Mathematician,Aczel Amir,HighStakes,28.62,1.52,True,37
+17,The Last Lecture,Pausch Randy,Hyperion,49.55,3.06,True,57
+18,The Theory of Everything,Hawking Stephen,Jaico,23.96,3.32,True,42
+19,Introduction to Algorithms,Cormen Thomas,MIT Press,36.59,3.2,True,52
+20,Structure & Interpretation of Computer Programs,Sussman Gerald,MIT Press,74.56,4.24,True,54
+21,Statistical Decision Theory',Pratt John,MIT Press,75.62,4.62,True,15
+22,Gun Gayin Awadi,Deshpande P L,Mauj,41.99,5.62,True,19
+23,Aghal Paghal,Deshpande P L,Mauj,49.34,1.07,True,26
+24,Maqta-e-Ghalib,Garg Sanjay,Mauj,39.89,3.44,True,57
+25,Manasa,Kale V P,Mauj,31.19,3.62,True,45
+26,Radiowaril Bhashane & Shrutika,Deshpande P L,Mauj,50.36,4.74,True,57
+27,Ahe Manohar Tari,Deshpande Sunita,Mauj,50.66,3.23,True,21
+28,Asami Asami,Deshpande P L,Mauj,78.89,1.45,True,23
+29,Python for Data Analysis,McKinney Wes,O'Reilly,69.08,1.95,True,65
+30,Learning OpenCV,Bradsky Gary,O'Reilly,52.81,1.83,True,66
+31,Machine Learning for Hackers,Conway Drew,O'Reilly,30.22,3.83,True,31
+32,Making Software,Oram Andy,O'Reilly,33.48,5.8,True,57
+33,Integration of the Indian States,Menon V P,Orient Blackswan,28.98,3.44,True,58
+34,False Impressions,Archer Jeffery,Pan,43.57,4.85,True,27
+35,A Prisoner of Birth,Archer Jeffery,Pan,63.29,1.3,True,37
+36,Computer Vision - A Modern Approach,Forsyth David,Pearson,75.16,5.38,True,27
+37,Econometric Analysis,Greene W. H.,Pearson,78.58,2.72,True,60
+38,Textbook of Economic Theory,Stonier Alfred,Pearson,40.38,3.56,True,29
+39,We the Living,Rand Ayn,Penguin,70.1,3.4,True,40
+40,Identity & Violence,Sen Amartya,Penguin,60.0,5.43,True,61
+41,Down and Out in Paris & London,Orwell George,Penguin,48.36,2.13,True,58
+42,Doctor in the Nude,Gordon Richard,Penguin,15.08,5.78,True,34
+43,Crime and Punishment,Dostoevsky Fyodor,Penguin,38.55,5.1,True,39
+44,Sea of Poppies,Ghosh Amitav,Penguin,16.81,1.95,True,33
+45,India from Midnight to Milennium,Tharoor Shashi,Penguin,7.11,4.92,True,21
+46,The Last Mughal,Dalrymple William,Penguin,56.74,2.0,True,20
+47,Burning Bright,Steinbeck John,Penguin,70.15,2.69,True,21
+48,Electric Universe,Bodanis David,Penguin,25.98,4.77,True,62
+49,New Markets & Other Essays,Drucker Peter,Penguin,70.3,1.26,True,38
+50,Bookless in Baghdad,Tharoor Shashi,Penguin,31.78,5.24,True,58
+51,The Winter of Our Discontent,Steinbeck John,Penguin,10.48,5.84,True,33
+52,The Great Indian Novel,Tharoor Shashi,Penguin,56.2,4.06,True,28

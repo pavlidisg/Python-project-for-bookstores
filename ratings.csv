@@ -1,0 +1,7 @@
+user_id,book_id,rating,comment
+0,1,10.0,user 0
+0,6,9.0,user 0
+1,6,7.0,user 1
+1,1,10.0,user 1
+0,4,5.0,very nice
+0,11,10.0,very nice
